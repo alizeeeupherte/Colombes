@@ -2,7 +2,7 @@
 
 
 
-Creation of preliminary summary project (APS in French).
+Creation of "before final project" (called Avant Pprojet Définitif in French).
 
 
 This project is about a transition from a business to housing with an elevation from existing R + 1 to R + 2 (3 levels).
