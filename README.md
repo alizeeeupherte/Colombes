@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## 3 rue Félix Faure Housing
 
-You can use the [editor on GitHub](https://github.com/alizeeeupherte/Colombes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Creation of preliminary summary project (APS in French).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+This project is about a transition from a business to housing with an elevation from existing R + 1 to R + 2 (3 levels).
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Here is my proposal of the spaces and moodboards for this project including:
+-Ground floor: gym, dressing room, swimming pool, sauna.
+-First floor: common areas with kitchen, dining room, living room and terrace.
+-Second floor: 4 bedrooms with dressing room, bathroom.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alizeeeupherte/Colombes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![](photo?raw=true)
+![](photo?raw=true)
+![](photo?raw=true)
+![](photo?raw=true)
+![](photo?raw=true)
+![](photo?raw=true)
+![](photo?raw=true)
