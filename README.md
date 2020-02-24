@@ -14,10 +14,26 @@ Here is my proposal of the spaces and moodboards for this project including:
 -Second floor: 4 bedrooms with dressing room, bathroom.
 
 
-![](photo?raw=true)
-![](photo?raw=true)
-![](photo?raw=true)
-![](photo?raw=true)
-![](photo?raw=true)
-![](photo?raw=true)
-![](photo?raw=true)
+Existing site:
+![](existant1.png?raw=true)
+![](existant2.png?raw=true)
+![](existant3.png?raw=true)
+
+Outdoor space:
+![](3D.png?raw=true)
+![](MB1.png?raw=true)
+
+Ground level:
+![](planRDC.png?raw=true)
+![](MB3.pngraw=true)
+
+First floor:
+![](planR+1.png?raw=true)
+![](MB2.png?raw=true)
+![](MB4.png?raw=true)
+![](MB5.png?raw=true)
+
+Second floor:
+![](planR+2.png?raw=true)
+![](MB6.png?raw=true)
+![](MB7.png?raw=true)
