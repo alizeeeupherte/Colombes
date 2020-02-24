@@ -25,7 +25,7 @@ Outdoor space:
 
 Ground level:
 ![](planRDC.png?raw=true)
-![](MB3.pngraw=true)
+![](MB3.png?raw=true)
 
 First floor:
 ![](planR+1.png?raw=true)
